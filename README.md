@@ -1,2 +1,2 @@
-# traning2023
+# training2023
 Learning
